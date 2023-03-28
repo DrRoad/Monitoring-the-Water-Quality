@@ -17,3 +17,14 @@ Apart from this, during the “Gas Tragedy”, MIC(methyl isocyanide) was releas
 ## **THE PROJECT GOALS:**
 
 This study aims to develop a Machine Learning system for monitoring the water quality of multiple lakes in the Bhopal region using satellite imagery and GIS techniques. The objective is to assess the water quality, detect the probable causes of water pollution and predict the potential impacts of different pollution sources on the environment and human health. The study will use a combination of **remote sensing techniques**, **image processing methods**, and **GIS tools to extract relevant information from satellite data**. Additionally, the system will enable **real-time monitoring of water quality**, allowing for timely intervention in case of any deterioration in water quality.
+
+
+## **The Data**
+
+For our water quality monitoring project in the Bhopal region, we collected data from various lakes using satellite imagery and GIS techniques. The lakes we focused on include **Upper Lake, Lower Lake, Kaliyasot dam, Kerwa Dam, Shahpura Lake, Sarangpani Lake, Motia talab, Hathaikheda dam/lake, Nawab Munshi Hussain Khan Talab, Nawab Siddiqui Hasan Khan Talaab, Jawahar Baal Udyan Lake, Lendiya Talab, Manit lake, and bhojtal lake.**
+
+To effectively monitor the water quality in these lakes, we collected various parameters related to water quality, including **pH, salinity, turbidity, temperature, chlorophyll, suspended matter, dissolved oxygen, and dissolved organic matter (DOM)**. These parameters were chosen based on their relevance to water quality and their ability to provide insights into the health of the lakes.
+
+
+## **Our solution**
+The team developed a user-friendly visualization dashboard that integrates the processed data from satellite imagery and GIS techniques. The dashboard provides real-time updates on key water quality parameters, including temperature, pH, dissolved oxygen, and turbidity. It also allows for easy monitoring of trends and patterns in the data, enabling users to quickly identify any discrepancies in water quality and take necessary corrective action. The dashboard's visually appealing interface and user-friendly design make it an effective tool for decision-making and collaboration between various stakeholders, including government agencies, NGOs, and local communities. Overall, the dashboard is a valuable asset in the ongoing efforts to protect and improve the water quality in the Bhopal region.
