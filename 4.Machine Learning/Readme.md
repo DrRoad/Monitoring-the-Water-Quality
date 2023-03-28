@@ -1,4 +1,4 @@
-Task 6 : Machine Learning 
+## Machine Learning 
 
 AIM : This task revolved around data pre-processing, exploratory analysis, preparation of training and testing data for best suitable classification model. 
 
