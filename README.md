@@ -26,5 +26,5 @@ For our water quality monitoring project in the Bhopal region, we collected data
 To effectively monitor the water quality in these lakes, we collected various parameters related to water quality, including **pH, salinity, turbidity, temperature, chlorophyll, suspended matter, dissolved oxygen, and dissolved organic matter (DOM)**. These parameters were chosen based on their relevance to water quality and their ability to provide insights into the health of the lakes.
 
 
-## **Our solution**
+## **Our Solution**
 The team developed a user-friendly visualization dashboard that integrates the processed data from satellite imagery and GIS techniques. The dashboard provides real-time updates on key water quality parameters, including temperature, pH, dissolved oxygen, and turbidity. It also allows for easy monitoring of trends and patterns in the data, enabling users to quickly identify any discrepancies in water quality and take necessary corrective action. The dashboard's visually appealing interface and user-friendly design make it an effective tool for decision-making and collaboration between various stakeholders, including government agencies, NGOs, and local communities. Overall, the dashboard is a valuable asset in the ongoing efforts to protect and improve the water quality in the Bhopal region.
